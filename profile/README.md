@@ -4,4 +4,5 @@ This organization, which is a sister organization of [Lula](https://github.com/L
 its parent org that aren't maintained anymore. They're moved here so that searching code or issues in repos will not get 
 cluttered with otherwise unrelated search results.
 
-If you are a github member of Lula you can also become a member of the Lula Archive org.
+If you are a github member of Lula you can also become a member of the Lula Archive org, which allows you to view the private 
+repositories in this organization.
